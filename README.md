@@ -11,5 +11,7 @@ py main.py
 
 ## made by:
 
-* [Kitten-Easy](https://github.com/kitenok228)
+* [Kitten-EASY](https://github.com/kitenok228)
 * [tailsjs](https://github.com/tailsjs)
+
+![pussy cat](https://github.com/SnusDevTeam/RumbleStars-Server/raw/main/cat.png)
