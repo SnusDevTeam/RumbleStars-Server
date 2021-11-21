@@ -2,8 +2,8 @@
 First open-source RumbleStars v1.10.0.1 server! this is very dudka servidor, based on [PyRoyale](https://github.com/zzvertigo/pyroyale) by [zzVertigo](https://github.com/zzvertigo)
 
 ## How to start?
-pip install twisted
-pip install pycryptodome
+pip install twisted<br>
+pip install pycryptodome<br>
 py main.py
 
 ## How to play?
