@@ -16,4 +16,6 @@ This server made by
 
 Check out our [Discord Server](https://discord.gg/uV46YKbU5R) for more info and news about server!
 
+[Wiki](https://github.com/SnusDevTeam/RumbleStars-Server/wiki)
+
 ![pussy cat](https://github.com/SnusDevTeam/RumbleStars-Server/raw/main/cat.png)
