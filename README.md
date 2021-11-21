@@ -17,4 +17,6 @@ Download custom client: it's not released for now.
 * [Kitenok](https://github.com/kitenok228)
 * [tailsjs](https://github.com/tailsjs)
 
+Check out our [Discord Server](https://discord.gg/uV46YKbU5R) for more info and news about server!
+
 ![pussy cat](https://github.com/SnusDevTeam/RumbleStars-Server/raw/main/cat.png)
