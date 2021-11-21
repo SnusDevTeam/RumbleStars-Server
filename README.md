@@ -1,5 +1,5 @@
 # Rumble Stars Server
-First open-source RumbleStars v1.10.0.1 server! [dudka servidor, based on PyRoyale by zzVertigo]<br>
+First open-source RumbleStars v1.10.0.1 server! this is very dudka servidor, based on [PyRoyale](https://github.com/zzvertigo/pyroyale) by [zzVertigo](https://github.com/zzvertigo)
 
 ## How to use?
 pip install twisted
@@ -9,8 +9,7 @@ pip install pycryptodome
 py main.py
 
 ### How to play?
-To play you need custom client. You can change ip in libsmash_android.so with hex, use hosts or custom client. If you want to use custom client, you simply need to change ip in Frida-Gadget config (/lib/armeabi-v7a/libkitenok.config.so)
-Download custom client: it's not released for now.
+To play you need [custom client](https://drive.google.com/file/d/1_-65P7-7rwClmc4Iy19_LI1SdCMu_aRL/view?usp=sharing). You can change ip in libsmash_android.so with hex, use hosts or custom client. If you want to use custom client, you simply need to change ip in Frida-Gadget config (/lib/armeabi-v7a/libkitenok.config.so)
 
 ## made by
 
