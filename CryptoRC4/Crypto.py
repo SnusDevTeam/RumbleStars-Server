@@ -1,4 +1,4 @@
-from Crypto.Cipher import ARC4 as RC4
+from Cryptodome.Cipher import ARC4 as RC4
 
 
 class CryptoRc4:
